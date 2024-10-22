@@ -1,1 +1,1 @@
-# .github
+# CyberSecurity Club's Github (UTA Club Organization)
